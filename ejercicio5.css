@@ -1,0 +1,14 @@
+.ribbon{
+position: absolute;
+left: 23px;
+top:35px;
+}
+
+.lentes{
+position: relative;
+top:5px;
+width: max-content;
+margin-left:auto;
+margin-right:auto;
+text-align: center;
+}

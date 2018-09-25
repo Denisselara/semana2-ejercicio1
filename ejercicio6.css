@@ -1,0 +1,19 @@
+.despacho{
+position: absolute;
+left: 150px;
+top:150px;
+
+}
+.despacho1{
+  width: 60px;
+  height: 60px;
+}
+
+.baterias{
+position: relative;
+top:5px;
+width: max-content;
+margin-left:auto;
+margin-right:auto;
+text-align: center;
+}

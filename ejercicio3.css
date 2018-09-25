@@ -1,0 +1,17 @@
+div{
+  background-color: red;
+  width: 25%;
+  height: 200px;
+  float: left;
+  border: solid 2px white;
+  box-sizing: border-box;
+}
+.box40{
+width:40%;
+background-color: red;
+box-sizing: border-box;
+text-align: center;
+}
+.clearfix{
+clear:both;
+}
