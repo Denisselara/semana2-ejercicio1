@@ -79,5 +79,5 @@ p{
     height: 70px;
     border-radius: 50%;
     background: red;
-    margin: 50px 0px 50px 110px;
+    margin: 50px auto 50px auto;
 }
